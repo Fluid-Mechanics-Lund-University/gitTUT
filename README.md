@@ -10,8 +10,8 @@ git config --global user.email "[email address]"
 
 ## Init a repository
 ```shell
-mkdir gitTUT
-cd gitTUT
+mkdir tutorial
+cd tutorial
 git init
 ```
 
