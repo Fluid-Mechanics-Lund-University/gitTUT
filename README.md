@@ -1,3 +1,7 @@
+This is a tutorial for user to get familar with `git` tools.
+
+> On Oct 16 2020, we had a seminar on *CFD source code management with Git and GitHub*. This is repository includes all the materials and tutorials in the seminar. If you are a beginner and want to learn more about `git` and `GitHub`, you are welcome to vist the [Zmeng Blogs](https://openfoam.tech/2020/06/GitUsage/). It shows you how to install, config, and use `git`.
+
 # Install Git
 ```shell
 sudo apt-get install libcurl4-gnutls-dev libexpat1-dev gettext libz-dev libssl-dev
